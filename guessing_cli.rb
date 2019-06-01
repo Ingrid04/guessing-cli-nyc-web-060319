@@ -10,8 +10,5 @@ def  run_guessing_game    # Code your solution here!
     else
       puts "Invalid input "
     end 
-    
-  
-   end 
-run_guessing_game
+   end
 end 
