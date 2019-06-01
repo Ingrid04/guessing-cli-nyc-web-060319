@@ -12,7 +12,6 @@ def  run_guessing_game    # Code your solution here!
     end 
     
   
-end 
-
+   end 
 run_guessing_game
 end 
