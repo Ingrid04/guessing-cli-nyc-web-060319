@@ -14,9 +14,5 @@ def  run_guessing_game ()   # Code your solution here!
       puts "Guess a number between 1 and 6."
       input = gets.chomp()
       end
-   end
-
-  puts "Goodbye!"
+    end
 end
-
-run_guessing_game()
