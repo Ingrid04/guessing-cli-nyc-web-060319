@@ -20,5 +20,3 @@ def  run_guessing_game ()   # Code your solution here!
 end
 
 run_guessing_game()
-
-end 
